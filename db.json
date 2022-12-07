@@ -1,0 +1,61 @@
+{
+  "albums": [
+    {
+      "title": "Smølferne og Kraxelikroxen",
+      "original_title": "Les Schtroumpfs et le Cracoucass",
+      "author": "Peyo",
+      "year_published": 1976,
+      "additional_info": "Da Gammelsmølfens supergødning ved et uheld ender i maven på en fugleunge, bliver denne til en meget ond Kraxlikrox, der truer Smølfernes fredelige samfund",
+      "id": 1
+    },
+    {
+      "title": "Astrosmølfen",
+      "original_title": "Le Cosmosschtroumpf",
+      "author": "Peyo",
+      "year_published": 1976,
+      "additional_info": "Astrosmølfen handler om en smølf, der nærer det hede ønske at rejse til en anden planet, og til dette formål bygger han en raket, der desværre ikke virker efter hensigten. De andre smølfer synes, det er synd for ham, og ved at bruge tricks får de ham til at tro, at det alligevel lykkes. Astrosmølfens selvtillid er genoprettet.",
+      "id": 2
+    },
+    {
+      "title": "Tryllesmølfen",
+      "original_title": "L Apprenti Schtroumpf",
+      "author": "Peyo",
+      "year_published": 1977,
+      "additional_info": "Tegneserie i farver. 2 episoder med minifolket smølferne",
+      "id": 3
+    },
+    {
+      "title": "Smølf den Store",
+      "author": "Peyo",
+      "original_title": "Le Schtroumpfissime",
+      "year_published": 1977,
+      "additional_info": "Smølf den Store. Smølfoni i c-dur : 2 historier med smølferne.",
+      "id": 4
+    },
+    {
+      "title": "Smølf",
+      "author": "Alain Jost",
+      "original_title": "le smyurf",
+      "year_published": "1982",
+      "additional_info": "bla bla",
+      "id": 5
+    }
+  ],
+  "persons": [
+    {
+      "name": "Gammelsmølfen",
+      "description": "Gammelsmølf er den ældste smølf. Han har røde bukser, rød hue og fuldskæg. Han har levet adskillige århundreder og er rimeligvis den modigste og klogeste af smølferne. Han er oftest den, de andre smølfer går til med problemer, og betragtes mere som smølfernes storebror end deres far. Han er forholdsvis antiautoritær og samtidig fornuftens stemme, men er også en smule distræt. Han påtager sig ofte ansvaret for hele landsbyen, og er indehaver af en magisk bog, som Gargamel gerne vil have fingre i. Gammelsmølfs magi har ofte store konsekvenser for historiernes udfald. Gammelsmølf er den eneste smølf som taler menneskesprog, og oversætter ofte mellem parterne. ",
+      "id": 1
+    },
+    {
+      "name": "Smølfine",
+      "description": "En af Gargamels planer var at sende pigesmølfen Smølfine til smølfernes landsby for at drive dem til vanvid. Med 99 hansmølfer og kun én pige gav det som planlagt en voldsom ballade i den ellers så fredelige landsby. Samtidig arbejdede hun for Gargamel, og det lykkedes hende (ved at lokke Digtersmølf) at oversvømme landsbyen. Da det blev afsløret, at hun arbejdede for Gargamel angrede hun, og smølferne tilgav hende. Hun forlod dog landsbyen for en tid for ikke at være skyld i mere ballade, men vendte senere tilbage og bosatte sig i landsbyen. Oprindeligt var Smølfine mørkhåret og ikke videre charmerende, men smølferne faldt alligevel for hende, og efterfølgende lykkedes det Gammelsmølf at gøre noget ved hendes udseende; navnlig gav han hende det tykke, lyse hår. Det påvirkede åbenbart også hendes personlighed i mere heldig retning. ",
+      "id": 2
+    },
+    {
+      "name": "Gargamel",
+      "description": "Er ond og dum",
+      "id": 3
+    }
+  ]
+}
